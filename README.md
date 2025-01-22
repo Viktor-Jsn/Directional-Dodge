@@ -1,6 +1,6 @@
 # Directional-Dodge
 
-Below is a clearer, step-by-step guide to setting up a Directional Dodge system using IA_Move values and Atan2. This approach follows the tutorial by Brotherwolf but incorporates a more accurate controller-friendly system, by me. Watch the original video by Brotherwolf to understand the system, and later come back for the upgraded version here.
+Below is a clear, step-by-step guide to setting up a Directional Dodge system using IA_Move values and Atan2. This approach follows the tutorial by Brotherwolf but incorporates a more accurate controller-friendly system, by me. Watch the original video by Brotherwolf to understand the system, and later come back for the upgraded version here.
 
 Brotherwolf 8 Directional Video: https://www.youtube.com/watch?v=vhQmYIYBAdE&t=2s
 
