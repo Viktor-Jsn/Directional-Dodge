@@ -1,4 +1,4 @@
-# Directional-Dodge
+# Directional-Dodge System For Unreal Engine
 
 Below is a clear, step-by-step guide to setting up a Directional Dodge system using IA_Move values and Atan2. This approach follows the tutorial by Brotherwolf but incorporates a more accurate controller-friendly system, by me. Watch the original video by Brotherwolf to understand the system, and later come back for the upgraded version here.
 
@@ -59,6 +59,13 @@ Assign each pin to the correct animation section name in your roll (dodge) monta
 If you’re using 8 directions, you’ll have pins numbered from 0 to 8. The image below shows how it might look. Ensure your montage has section names that match these directions.
 
 ![image](https://github.com/user-attachments/assets/e1c86783-39a0-4537-81f9-38b1038c92b1)
+
+# Example for 16 Directions
+
+If you’re using 16 directions, you’ll have pins numbered from 0 to 16. The image below shows how it might look. Ensure your montage has section names that match these directions.
+
+![image](https://github.com/user-attachments/assets/e80f3180-8167-42ee-8d50-32d7654271a0)
+
 
 # Tip: If you don’t understand how the Select node’s pins correspond to directions:
 
